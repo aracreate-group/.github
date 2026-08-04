@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>araCreate Group — GitHub banner (export me)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  /* ── brand tokens ────────────────────────────────────────────────
+     Replace --yellow with the exact araCreate brand yellow.        */
+  :root{
+    --yellow:  #FFC800;
+    --ink:     #14140F;
+    --paper:   #F2F1EC;
+    --rule:    #14140F;
+    --muted:   #7A7970;
+  }
+
+  *{box-sizing:border-box;margin:0;padding:0}
+
+  body{
+    background:#5A5A54;
+    font-family:"IBM Plex Sans Condensed",system-ui,sans-serif;
+    display:flex; flex-direction:column; align-items:center;
+    gap:28px; padding:40px 20px;
+  }
+
+  /* everything inside .sheet is the exported image ─ 1280 × 320 */
+  .sheet{
+    width:1280px; height:320px;
+    background:var(--paper); color:var(--ink);
+    position:relative; overflow:hidden;
+    display:grid; grid-template-columns:1fr 340px;
+    border:1px solid var(--rule);
+  }
+
+  /* ── signature: measuring scale across the top edge ─────────── */
+  .scale{
+    position:absolute; inset:0 0 auto 0; height:22px;
+    border-bottom:1px solid var(--rule);
+    background-image:repeating-linear-gradient(to right,
+        var(--rule) 0 1px, transparent 1px 16px);
+    background-size:16px 9px;
+    background-position:0 100%;
+    background-repeat:repeat-x;
+  }
+  .scale::after{
+    content:""; position:absolute; left:0; top:0; height:100%;
+    width:58px; background:var(--yellow);
+    border-right:1px solid var(--rule);
+  }
+
+  /* ── left: the statement ─────────────────────────────────────── */
+  .stage{
+    padding:52px 0 34px 56px;
+    display:flex; flex-direction:column; justify-content:space-between;
+  }
+
+  .mark{ display:flex; align-items:center; gap:14px; }
+  .mark img{ height:26px; width:auto; display:block; }
+  .mark .fallback{
+    font-weight:700; font-size:20px; letter-spacing:-.01em;
+  }
+  .mark .fallback em{ font-style:normal; color:var(--yellow);
+    -webkit-text-stroke:.6px var(--ink); }
+
+  .eyebrow{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:10.5px; font-weight:500; letter-spacing:.16em;
+    text-transform:uppercase; color:var(--muted);
+    padding-left:14px; border-left:1px solid var(--rule);
+  }
+
+  .headline{
+    font-size:52px; font-weight:700; line-height:1.02;
+    letter-spacing:-.022em; max-width:14ch;
+  }
+  .headline .hl{
+    background:linear-gradient(to top, var(--yellow) 34%, transparent 34%);
+    padding:0 2px;
+  }
+
+  /* caliper measuring the phrase */
+  .caliper{ display:flex; align-items:flex-start; gap:12px; margin-top:14px; }
+  .caliper .bracket{
+    width:236px; height:9px;
+    border:1px solid var(--rule); border-top:none;
+  }
+  .caliper .reading{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:10.5px; letter-spacing:.1em; text-transform:uppercase;
+    color:var(--muted); margin-top:-3px;
+  }
+
+  /* ── right: drawing title block ──────────────────────────────── */
+  .block{
+    border-left:1px solid var(--rule); margin-top:22px;
+    display:grid; grid-template-columns:1fr 1fr; grid-template-rows:repeat(3,1fr);
+  }
+  .cell{
+    border-bottom:1px solid var(--rule); border-right:1px solid var(--rule);
+    padding:14px 16px; display:flex; flex-direction:column; justify-content:space-between;
+  }
+  .cell:nth-child(2n){ border-right:none }
+  .cell:nth-last-child(-n+2){ border-bottom:none }
+  .cell .k{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:8.5px; font-weight:500; letter-spacing:.15em;
+    text-transform:uppercase; color:var(--muted);
+  }
+  .cell .v{ font-size:22px; font-weight:600; letter-spacing:-.015em; line-height:1 }
+  .cell .v small{ font-size:12px; font-weight:500; color:var(--muted) }
+  .cell.fill{ background:var(--yellow) }
+  .cell.fill .k{ color:rgba(20,20,15,.62) }
+
+  /* ── page furniture (NOT exported) ───────────────────────────── */
+  .note{
+    width:1280px; max-width:100%; color:#E9E8E3;
+    font-family:"IBM Plex Mono",monospace; font-size:12px; line-height:1.7;
+  }
+  .note b{ color:var(--yellow); font-weight:500 }
+  @media print{ .note{display:none} body{background:#fff;padding:0} }
+</style>
+</head>
+<body>
+
+  <div class="sheet" id="sheet">
+    <div class="scale"></div>
+
+    <div class="stage">
+      <div class="mark">
+        <!-- Drop the yellow logo next to this file as logo.png (or repoint src). -->
+        <img src="logo.png" alt="" onerror="this.remove()"
+             onload="this.nextElementSibling.remove()">
+        <span class="fallback">ara<em>Create</em> Group</span>
+        <span class="eyebrow">Est. 2003 · Berlin · Colombo</span>
+      </div>
+
+      <div>
+        <h1 class="headline">Ideas from <span class="hl">mind to market</span></h1>
+        <div class="caliper">
+          <div class="bracket"></div>
+          <div class="reading">Prototype → production · sketch → screen · drawing → delivery</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="block">
+      <div class="cell"><span class="k">Disciplines</span><span class="v">05</span></div>
+      <div class="cell fill"><span class="k">Clients served</span><span class="v">300+</span></div>
+      <div class="cell"><span class="k">Engineering</span><span class="v">Hardware <small>/ Software</small></span></div>
+      <div class="cell"><span class="k">Manufacturing</span><span class="v">Metal <small>/ Plastic</small></span></div>
+      <div class="cell"><span class="k">Media</span><span class="v">Design <small>/ Film</small></span></div>
+      <div class="cell"><span class="k">Sheet</span><span class="v">GitHub <small>/ org</small></span></div>
+    </div>
+  </div>
+
+  <div class="note">
+    <b>EXPORT →</b> right-click the sheet above → “Capture node screenshot” in DevTools,
+    or screenshot at 2× (2560 × 640) and save as <b>logo/hero.png</b>.<br>
+    <b>BEFORE EXPORT →</b> set <b>--yellow</b> to the real brand hex · drop the yellow logo
+    beside this file as <b>logo.png</b> (the typeset fallback disappears automatically).
+  </div>
+
+</body>
+</html>
