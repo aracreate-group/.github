@@ -59,11 +59,11 @@ We have empowered **300+ clients**, from small and medium businesses and social 
 
 |  | Service | From → To |
 | :---: | :--- | :--- |
-| ⚙️ | **[Engineering](https://aracreate.group/engineering)** | Innovative ideas from **prototype** to **production** — embedded, electronics, mechanics, software |
-| 🏭 | **[Manufacturing](https://aracreate.group/manufacturing)** | Industrial ideas from **drawing** to **delivery** — metal, plastic, production, operations |
-| 🎬 | **[Media](https://aracreate.group/media)** | Creative ideas from **sketch** to **screen** — design, animation, video, audio |
-| 📊 | **[Business](https://aracreate.group/business)** | Data, market and legal groundwork for going to market |
-| 🎓 | **[Training](https://aracreate.group/training)** | Academy, career development and entrepreneurship |
+| **[Engineering](https://aracreate.group/engineering)** | Innovative ideas from **prototype** to **production** — embedded, electronics, mechanics, software |
+| **[Manufacturing](https://aracreate.group/manufacturing)** | Industrial ideas from **drawing** to **delivery** — metal, plastic, production, operations |
+| **[Media](https://aracreate.group/media)** | Creative ideas from **sketch** to **screen** — design, animation, video, audio |
+| **[Business](https://aracreate.group/business)** | Data, market and legal groundwork for going to market |
+| **[Training](https://aracreate.group/training)** | Academy, career development and entrepreneurship |
 
 <br>
 
@@ -128,7 +128,7 @@ Whether it is cutting-edge hardware and software, industrial manufacturing,<br>i
 
 <br>
 
-<sub>Join the team → `[[ careers URL or careers@aracreate.group ]]`</sub>
+<sub>Join the team → `[careers@aracreate.group ]]`</sub>
 
 <br><br>
 
