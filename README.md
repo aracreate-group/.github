@@ -18,7 +18,7 @@
 <!-- Logo: yellow mark on transparent background, works on GitHub light AND dark themes.
      Upload to profile/assets/ and keep these absolute raw URLs — relative paths
      are unreliable on org profile pages. SVG preferred; PNG @2x otherwise. -->
-<img src="https://raw.githubusercontent.com/aracreate-group/.github/main/profile/assets/aracreate-logo-yellow.svg" alt="araCreate Group" width="340">
+<img src="logo/aracreate-google-320x132.png" alt="araCreate Group" width="340">
 
 <br><br>
 
