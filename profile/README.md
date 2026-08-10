@@ -121,7 +121,7 @@ Source code, hardware projects, tooling and the internal references maintained b
 
 ## What lives here
 
-Source code, hardware projects, tooling and the internal references maintained by araCreate Group and its teams.
+Source code, and research projects maintained by araCreate Group and its teams.
 
 | Repository | Purpose |
 | :--- | :--- |
