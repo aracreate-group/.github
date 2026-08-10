@@ -121,17 +121,17 @@ Source code, hardware projects, tooling and the internal references maintained b
 
 ## What lives here
 
-Source code, and research projects maintained by araCreate Group and its teams.
+Research projects and experimental work from araCreate Research Hub (ACRH) — computational biology, medical imaging, ML explainability and low-tech food science.
 
 | Repository | Purpose |
 | :--- | :--- |
-| **[acrh-oral-microbiome-cancer-detection](https://github.com/aracreate-group/acrh-oral-microbiome-cancer-detection)** | Streamlit explorer for Oral microbiome data for cancer detection |
-| **[acrh-cancer-ai-pipeline](https://github.com/aracreate-group/acrh-cancer-ai-pipeline)** | Tumor vs normal classifier using TCGS-BRCA, XGBOOST and FastAP |
-| **[acrh-brain-mri-classification](https://github.com/aracreate-group/acrh-brain-mri-classification)** | CNN, transfer learning, and classical baselines for brain MRI tumour detection, with Grad-CAM attributions and explicit training-failure guards |
+| **[acrh-oral-microbiome-cancer-detection](https://github.com/aracreate-group/acrh-oral-microbiome-cancer-detection)** | Streamlit explorer for oral microbiome data in cancer detection |
+| **[acrh-cancer-ai-pipeline](https://github.com/aracreate-group/acrh-cancer-ai-pipeline)** | Tumour vs. normal classifier using TCGA-BRCA, XGBoost and FastAPI |
+| **[acrh-brain-mri-classification](https://github.com/aracreate-group/acrh-brain-mri-classification)** | CNN, transfer learning and classical baselines for brain MRI tumour detection, with Grad-CAM attributions and explicit training-failure guards |
 | **[acrh-xai-healthcare](https://github.com/aracreate-group/acrh-xai-healthcare)** | SHAP explainability over a clinical diagnostic classifier, with a pre-registered analysis plan for measuring how explanations change clinician trust |
-| **[acrh-hemaglutti-gene-mutation-analysis-of-monkeypox](https://github.com/aracreate-group/acrh-hemagluttin-gene-mutation-analysis-of-monkeypox)** | Investigate Hemmaglutin gene which plays a role in virion internalization for mutations |
-| **[acrh-kombucha](https://github.com/aracreate-group/acrh-kombucha)** | Preparation of Scoby mother culture and initiation of kombucha fermentation in Batticaloa, Sri Lanka |
-| **[acrh-soft-cheese](https://github.com/aracreate-group/acrh-soft-cheese)** | Explored the process of making cheese with low tech, and low budget settings. Which could be beneficial for underserved local communities in Sri Lanka |
+| **[acrh-hemagglutinin-gene-mutation-analysis-of-monkeypox](https://github.com/aracreate-group/acrh-hemagluttin-gene-mutation-analysis-of-monkeypox)** | Mutation analysis of the haemagglutinin gene, which plays a role in virion internalisation |
+| **[acrh-kombucha](https://github.com/aracreate-group/acrh-kombucha)** | Preparation of SCOBY mother culture and initiation of kombucha fermentation in Batticaloa, Sri Lanka |
+| **[acrh-soft-cheese](https://github.com/aracreate-group/acrh-soft-cheese)** | Cheesemaking in low-tech, low-budget settings — aimed at underserved local communities in Sri Lanka |
 
 <div align="left"><a href="https://github.com/orgs/aracreate-group/repositories">Browse all repositories →</a></div><br>
 
