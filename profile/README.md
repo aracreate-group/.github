@@ -125,11 +125,14 @@ Source code, hardware projects, tooling and the internal references maintained b
 
 | Repository | Purpose |
 | :--- | :--- |
-| **[aracreate-conventions](https://github.com/aracreate-group/acrh-oral-microbiome-cancer-detection)** | The canonical reference every araCreate repository follows |
-| **[aracreate-guidelines](https://github.com/aracreate-group/aracreate-guidelines)** | Code of conduct, best practices and co-creation methodology |
-| **[eval-nrf54h20dk](https://github.com/aracreate-group/eval-nrf54h20dk)** | Nordic nRF54H20 evaluation and board bring-up |
-| **[ac-asset-manager](https://github.com/aracreate-group/ac-asset-manager)** | Infrastructure and asset management tooling |
-| **[aracreate-interview-template](https://github.com/aracreate-group/aracreate-interview-template)** | Starting point for candidate assignments |
+| **[acrh-oral-microbiome-cancer-detection](https://github.com/aracreate-group/acrh-oral-microbiome-cancer-detection)** | Streamlit explorer for Oral microbiome data for cancer detection |
+| **[acrh-cancer-ai-pipeline](https://github.com/aracreate-group/acrh-cancer-ai-pipeline)** | Tumor vs normal classifier using TCGS-BRCA, XGBOOST and FastAP |
+| **[acrh-brain-mri-classification](https://github.com/aracreate-group/acrh-brain-mri-classification)** | CNN, transfer learning, and classical baselines for brain MRI tumour detection, with Grad-CAM attributions and explicit training-failure guards |
+| **[acrh-xai-healthcare](https://github.com/aracreate-group/acrh-xai-healthcare)** | SHAP explainability over a clinical diagnostic classifier, with a pre-registered analysis plan for measuring how explanations change clinician trust |
+| **[acrh-hemaglutti-gene-mutation-analysis-of-monkeypox](https://github.com/aracreate-group/acrh-hemagluttin-gene-mutation-analysis-of-monkeypox)** | Investigate Hemmaglutin gene which plays a role in virion internalization for mutations |
+| **[acrh-kombucha](https://github.com/aracreate-group/acrh-kombucha)** | Preparation of Scoby mother culture and initiation of kombucha fermentation in Batticaloa, Sri Lanka |
+| **[acrh-soft-cheese](https://github.com/aracreate-group/acrh-soft-cheese)** | Explored the process of making cheese with low tech, and low budget settings. Which could be beneficial for underserved local communities in Sri Lanka |
+
 <div align="left"><a href="https://github.com/orgs/aracreate-group/repositories">Browse all repositories →</a></div><br>
 
 > [!NOTE]
@@ -138,7 +141,7 @@ Source code, hardware projects, tooling and the internal references maintained b
 > For our full capabilities and selected case studies, see the **[araCreate deck](https://deck.aracreate.group/)**.
 
 ---
-<sub>**06 — GET STARTED**</sub>
+<sub>**07 — GET STARTED**</sub>
 
 ## Start here
 
