@@ -116,6 +116,20 @@ Source code, hardware projects, tooling and the internal references maintained b
 | **[ac-asset-manager](https://github.com/aracreate-group/ac-asset-manager)** | Infrastructure and asset management tooling |
 | **[aracreate-interview-template](https://github.com/aracreate-group/aracreate-interview-template)** | Starting point for candidate assignments |
 
+---
+<sub>**06 — RESEARCHES**</sub>
+
+## What lives here
+
+Source code, hardware projects, tooling and the internal references maintained by araCreate Group and its teams.
+
+| Repository | Purpose |
+| :--- | :--- |
+| **[aracreate-conventions](https://github.com/aracreate-group/acrh-oral-microbiome-cancer-detection)** | The canonical reference every araCreate repository follows |
+| **[aracreate-guidelines](https://github.com/aracreate-group/aracreate-guidelines)** | Code of conduct, best practices and co-creation methodology |
+| **[eval-nrf54h20dk](https://github.com/aracreate-group/eval-nrf54h20dk)** | Nordic nRF54H20 evaluation and board bring-up |
+| **[ac-asset-manager](https://github.com/aracreate-group/ac-asset-manager)** | Infrastructure and asset management tooling |
+| **[aracreate-interview-template](https://github.com/aracreate-group/aracreate-interview-template)** | Starting point for candidate assignments |
 <div align="left"><a href="https://github.com/orgs/aracreate-group/repositories">Browse all repositories →</a></div><br>
 
 > [!NOTE]
