@@ -121,7 +121,7 @@ Source code, hardware projects, tooling and the internal references maintained b
 
 ## What can be found here?
 
-Research projects and experimental work from araCreate Research (ACRH).
+Research projects and experimental work from araCreate Research (acrh).
 
 | Repository | Purpose |
 | :--- | :--- |
