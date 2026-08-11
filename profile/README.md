@@ -121,7 +121,7 @@ Source code, hardware projects, tooling and the internal references maintained b
 
 ## What can be found here?
 
-Research projects and experimental work from araCreate Research Hub (ACRH) — computational biology, medical imaging, ML explainability and low-tech food science.
+Research projects and experimental work from araCreate Research (ACRH).
 
 | Repository | Purpose |
 | :--- | :--- |
