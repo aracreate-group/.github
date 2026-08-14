@@ -137,7 +137,7 @@ Research projects and experimental work from araCreate Research (acrh).
 | **[acrh-kombucha](https://github.com/aracreate-group/acrh-kombucha)** | Preparation of SCOBY mother culture and initiation of kombucha fermentation in Batticaloa, Sri Lanka |
 | **[acrh-soft-cheese](https://github.com/aracreate-group/acrh-soft-cheese)** | Cheesemaking in low-tech, low-budget settings — aimed at underserved local communities in Sri Lanka |
 
-<div align="left"><a href="https://github.com/orgs/aracreate-group/repositories?q=acrh">Browse all acrh repositories →</a></div><br>
+<div align="left"><a href="https://github.com/orgs/aracreate-group/repositories?q=acrh">Browse all research repositories →</a></div><br>
 
 ---
 <sub>**07 — GET STARTED**</sub>
