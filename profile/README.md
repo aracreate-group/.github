@@ -116,6 +116,10 @@ Source code, hardware projects, tooling and the internal references maintained b
 | **[ac-asset-manager](https://github.com/aracreate-group/ac-asset-manager)** | Infrastructure and asset management tooling |
 | **[aracreate-interview-template](https://github.com/aracreate-group/aracreate-interview-template)** | Starting point for candidate assignments |
 
+> [!NOTE]
+> Most of our work is confidential new product development — from concept to commercial launch. Case studies are shared only once clients reach market success and grant public disclosure. Client work lives in private repositories; what you see here is what we can share openly.
+>
+> For our full capabilities and selected case studies, see the **[araCreate deck](https://deck.aracreate.group/)**.
 ---
 <sub>**06 — RESEARCHES**</sub>
 
@@ -134,11 +138,6 @@ Research projects and experimental work from araCreate Research (acrh).
 | **[acrh-soft-cheese](https://github.com/aracreate-group/acrh-soft-cheese)** | Cheesemaking in low-tech, low-budget settings — aimed at underserved local communities in Sri Lanka |
 
 <div align="left"><a href="https://github.com/orgs/aracreate-group/repositories">Browse all repositories →</a></div><br>
-
-> [!NOTE]
-> Most of our work is confidential new product development — from concept to commercial launch. Case studies are shared only once clients reach market success and grant public disclosure. Client work lives in private repositories; what you see here is what we can share openly.
->
-> For our full capabilities and selected case studies, see the **[araCreate deck](https://deck.aracreate.group/)**.
 
 ---
 <sub>**07 — GET STARTED**</sub>
