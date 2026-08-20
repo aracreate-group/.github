@@ -19,7 +19,7 @@
   raw .svg as text/plain, so SVG will not render in an <img>.
 
   Copy is sourced verbatim from the araCreate Deck (04.02.2026) in Canva —
-  story, verticals, service domains, values, ecosystem and contact.
+  story, verticals, service domains, values and contact.
 ════════════════════════════════════════════════════════════════════════
 -->
 
@@ -91,41 +91,22 @@ Senic · metr · German Autolabs · Playmobil · Poggenpohl · Overtone
 - **We stay curious.** We pioneer new approaches across industries, keeping clients ahead of emerging trends.
 
 ---
-<sub>**04 — ECOSYSTEM**</sub>
-
-## Where a group of companies delivers unified global solutions …
-
-| Country | Companies |
-| :--- | :--- |
-| **Germany** | araCreate GmbH · BatchOne GmbH · rlgtechdesign GmbH · DreamSpace Foundation gUG |
-| **India** | araCreate India Pvt Ltd · Micro-Tech CNC Pvt Ltd |
-| **Sri Lanka** | araCreate Lanka Pvt Ltd · DreamSpace Foundation CLG |
-
----
-<sub>**05 — ORGANISATION**</sub>
+<sub>**04 — REPOSITORIES**</sub>
 
 ## What lives here
 
-Source code, hardware projects, tooling and the internal references maintained by araCreate Group and its teams.
+Source code, hardware projects, tooling, research and the internal references maintained by araCreate Group and its teams.
 
 | Repository | Purpose |
 | :--- | :--- |
-| **[aracreate-conventions](https://github.com/aracreate-group/aracreate-conventions)** | The canonical reference every araCreate repository follows |
-| **[aracreate-guidelines](https://github.com/aracreate-group/aracreate-guidelines)** | Code of conduct, best practices and co-creation methodology |
-| **[eval-nrf54h20dk](https://github.com/aracreate-group/eval-nrf54h20dk)** | Nordic nRF54H20 evaluation and board bring-up |
-| **[ac-asset-manager](https://github.com/aracreate-group/ac-asset-manager)** | Infrastructure and asset management tooling |
-| **[aracreate-interview-template](https://github.com/aracreate-group/aracreate-interview-template)** | Starting point for candidate assignments |
+| **[aracreate-conventions](https://github.com/aracreate-group/aracreate-conventions)** | The canonical reference every araCreate repository follows — naming, branching, commits, licensing, repository structure |
+| **[aracreate-design-system](https://github.com/aracreate-group/aracreate-design-system)** | Brand guidelines, palette, type and component definitions |
 
-> [!NOTE]
-> Most of our work is confidential new product development — from concept to commercial launch. Case studies are shared only once clients reach market success and grant public disclosure. Client work lives in private repositories; what you see here is what we can share openly.
->
-> For our full capabilities and selected case studies, see the **[araCreate deck](https://deck.aracreate.group/)**.
----
-<sub>**06 — RESEARCHES**</sub>
+<div align="center">
 
-## What can be found here?
+**ARACREATE RESEARCH (ACRH)**
 
-Research projects and experimental work from araCreate Research (acrh).
+</div>
 
 | Repository | Purpose |
 | :--- | :--- |
@@ -137,28 +118,8 @@ Research projects and experimental work from araCreate Research (acrh).
 | **[acrh-kombucha](https://github.com/aracreate-group/acrh-kombucha)** | Preparation of SCOBY mother culture and initiation of kombucha fermentation in Batticaloa, Sri Lanka |
 | **[acrh-soft-cheese](https://github.com/aracreate-group/acrh-soft-cheese)** | Cheesemaking in low-tech, low-budget settings — aimed at underserved local communities in Sri Lanka |
 
-<div align="left"><a href="https://github.com/orgs/aracreate-group/repositories?q=acrh">Browse all research repositories →</a></div><br>
-
----
-<sub>**07 — GET STARTED**</sub>
-
-## Start here
-
-Read **[aracreate-conventions](https://github.com/aracreate-group/aracreate-conventions)** — naming, branching, commits, licensing, repository structure.
-
-**Conventions at a glance**
-
-<!-- Kept in sync with aracreate-conventions rather than restating it, so the two can never drift apart. -->
-
-| | |
-| :--- | :--- |
-| Repository naming | `param-case` — lowercase, hyphen-separated (e.g. `client-product-project`) |
-| Default branch | `main` |
-| Commit messages | Conventional Commits — `feat:` · `fix:` · `chore:` · `refactor:` · `docs:` |
-| Licence | Proprietary by default; copyright held by the IP owner (araCreate Group, or the client for client work) |
-| Every repo ships | `README.md` · `LICENSE` · `.gitignore` · `Makefile` · `VERSION` |
-
-<br>
+> [!NOTE]
+> Most of our work is confidential new product development — from concept to commercial launch. Case studies are shared only once clients reach market success and grant public disclosure. Client work lives in private repositories; what you see here is what we can share openly. For our full capabilities and selected case studies, see the **[araCreate deck](https://deck.aracreate.group/)**.
 
 ---
 <div align="center">
