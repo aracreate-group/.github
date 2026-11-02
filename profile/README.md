@@ -6,7 +6,7 @@
   PATH   : profile/README.md                    (GitHub-mandated path)
   RENDERS: https://github.com/aracreate-group
 
-  Design system: claude.ai/design "aracreate-design-system" (Brand
+  Design system: claude.ai/design "acds-aracreate-design-system" (Brand
   Guidelines v1.0, 2026). Palette is intentionally tight —
     Golden Sun    #F9BF3B  brand / accent (CTAs, highlights)
     Black         #222222  headings, dark bands, badge labelColor
@@ -99,8 +99,8 @@ Source code, hardware projects, tooling, research and the internal references ma
 
 | Repository | Purpose |
 | :--- | :--- |
-| **[aracreate-conventions](https://github.com/aracreate-group/aracreate-conventions)** | The canonical reference every araCreate repository follows — naming, branching, commits, licensing, repository structure |
-| **[aracreate-design-system](https://github.com/aracreate-group/aracreate-design-system)** | Brand guidelines, palette, type and component definitions |
+| **[accv-aracreate-conventions](https://github.com/aracreate-group/accv-aracreate-conventions)** | The canonical reference every araCreate repository follows — naming, branching, commits, licensing, repository structure |
+| **[acds-aracreate-design-system](https://github.com/aracreate-group/acds-aracreate-design-system)** | Brand guidelines, palette, type and component definitions |
 
 <div align="center">
 

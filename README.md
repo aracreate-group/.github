@@ -13,7 +13,7 @@ This repo must stay **public** for the profile to render.
 
 ## Conventions
 
-Follows [aracreate-conventions](https://github.com/aracreate-group/aracreate-conventions).
+Follows [accv-aracreate-conventions](https://github.com/aracreate-group/accv-aracreate-conventions).
 As a meta-repo with no source code, it applies the parts that fit — layout,
 file headers, licensing, and Git rules — and omits the software scaffold
 (`src/`, `tests/`, `releases/`, `Makefile`, `VERSION`).
